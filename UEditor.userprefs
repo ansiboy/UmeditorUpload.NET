@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9FA0D9D3-DF33-47CC-A014-7DCE69F519A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UEditor.NET/ValuesController.cs">
+    <Files>
+      <File FileName="UEditor.NET/Program.cs" Line="41" Column="1" />
+      <File FileName="UEditor.NET/App.config" Line="5" Column="30" />
+      <File FileName="UEditor.NET/ValuesController.cs" Line="86" Column="17" />
+      <File FileName="UEditor.NET/Uploader.cs" Line="16" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UMEditor/Program.cs" relfile="UMEditor/Program.cs" line="10" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UMEditor/Uploader.cs" relfile="UMEditor/Uploader.cs" line="34" column="54" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UMEditor/ValuesController.cs" relfile="UMEditor/ValuesController.cs" line="43" column="49" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UMEditor/ValuesController.cs" relfile="UMEditor/ValuesController.cs" line="42" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/Host/ValuesController.cs" relfile="Host/ValuesController.cs" line="132" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/Host/ValuesController.cs" relfile="Host/ValuesController.cs" line="46" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UEditor.NET/Program.cs" relfile="UEditor.NET/Program.cs" line="41" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UEditor.NET/Uploader.cs" relfile="UEditor.NET/Uploader.cs" line="60" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UEditor.NET/Uploader.cs" relfile="UEditor.NET/Uploader.cs" line="50" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UEditor.NET/Uploader.cs" relfile="UEditor.NET/Uploader.cs" line="18" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UEditor.NET/ValuesController.cs" relfile="UEditor.NET/ValuesController.cs" line="18" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UEditor.NET/ValuesController.cs" relfile="UEditor.NET/ValuesController.cs" line="53" column="1" />
+      <Breakpoint file="/home/maishu/projects/UmeditorUpload.NET/UEditor.NET/ValuesController.cs" relfile="UEditor.NET/ValuesController.cs" line="87" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Host PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
